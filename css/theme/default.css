@@ -145,3 +145,15 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #13daec; }
+
+/*********************************************
+ * Custom Css
+ *********************************************/
+.forkme {
+    z-index: 1000;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 150px;
+    height: 150px;
+}
